@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1538224035 source:c:\users\dell\desktop\codeblocks\圆的周长和面积\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
