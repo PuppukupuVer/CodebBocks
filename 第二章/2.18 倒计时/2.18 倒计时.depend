@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541935560 source:c:\users\dell\desktop\codeblocks\第二章\2.18 倒计时\main.c
+	<stdio.h>
+	<stdlib.h>
+
